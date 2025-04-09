@@ -15,7 +15,6 @@
 - 🌱 Currently expanding my expertise in **Cloud Architecture & AI Development**  
 - 💬 Ask me about **React, Angular, Svelte, Node.js, Next.js, AWS, Strapi, and RPA**  
 - 📫 Reach me at **saadurrehman59@gmail.com**  
-- 📄 Check out my experience [Resume](https://drive.google.com/file/d/120PTemAOAqJHL46gMRIpBwVhBXidI22B/view?usp=sharing)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
